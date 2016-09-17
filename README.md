@@ -1,0 +1,2 @@
+# SayisalLoto
+Sayısal loto, Javascript
