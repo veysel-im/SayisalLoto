@@ -3,7 +3,7 @@
 //........global
 
 var sinir = 0;
-var gecici = [];
+var gecici = []; // silinecek....
 var sira = 1;
 var kolonsayisi = 0;
 var alinan = [];
